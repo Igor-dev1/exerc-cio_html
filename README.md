@@ -1,2 +1,2 @@
-# exerccio_html
+# exercicio_html
 Formulario para o projeto de TI EBAC
